@@ -76,9 +76,12 @@ function collision(a, b) {
 
 function updateTimer() {
     const elapsed = (Date.now() - startTime) / 1000;
-    const remaining = Math.max(0, Math.ceil(60 - elapsed));
-    timer.textContent = remaining;
-    if (elapsed >= 60) winGame();
+    const remaining = Math.max(0, 60 - elapsed);
+    timer.textContent = Math.ceil(remaining);
+
+    if (remaining <= 0) {
+        winGame();
+    }
 }
 
 function loseGame() {
