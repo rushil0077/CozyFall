@@ -5,6 +5,7 @@ The Mushroom Game is a cozy fall survival game where you control a mushroom, dod
 <img width="1394" height="683" alt="Screenshot 2026-09-26 at 8 56 34 PM" src="https://github.com/user-attachments/assets/a8330409-10c1-4d1f-a8fb-0ec0e9d75300" />
 
 Link to Repo: https://github.com/rushil0077/CozyFall
+
 Link to Game: https://rushil0077.github.io/CozyFall/
 
 - Control a mushroom using WASD.
