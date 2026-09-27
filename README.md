@@ -1,4 +1,4 @@
-# CozyFall
+# The Mushroom Game
 
 The Mushroom Game is a cozy fall survival game where you control a mushroom, dodge falling rocks, and try to survive for 60 seconds.
 
